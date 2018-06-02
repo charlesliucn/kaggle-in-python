@@ -29,3 +29,7 @@ res = classification_report(y_test, mnb_y_predict,
 	target_names = news.target_names)
 print("Accuracy: %s" % mnb.score(x_test, y_test))
 print(res)
+
+from sklearn.metrics import confusion_matrix
+cm = confusion_matrix(y_test, mnb_y_predict)
+print(cm)
