@@ -1,26 +1,29 @@
 # Kaggle: Machine Learning in Action
 This repository contains basic machine learning algorithms and implement in `scikit-learn`.
 
+### NOTICE: THE CODE IN THE REPOSITORY IS VERY BASIC!!!
+
+
 ## Content
-+ Supervised Learning
++ **Supervised Learning**
 	- Classification
 	- Regression
-+ Unsupervised Learning
++ **Unsupervised Learning**
 	- Clustering
 	- Dimension Reduction
-+ Feature Engineering
++ **Feature Engineering**
 	- Feature Extraction
 	- Feature Selection
-- Regularization
+- **Regularization**
 	- L1
 	- L2
-- Hyperparameters Tuning
+- **Hyperparameters Tuning**
 	- Grid Search
-- Popular Tools
+- **Popular Tools**
 	- NLTK
 	- GenSim
 	- Tensorflow
 	- XGBoost
-+ Kaggle Competitions
++ **Kaggle Competitions**
 	- Titanic Survival Prediction
-	- UPDATING...
+	- STILL UPDATING...
